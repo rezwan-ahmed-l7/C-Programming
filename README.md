@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  A collection of C programming problems, practice codes, and fundamental concepts learned throughout my Computer Science & Engineering journey.
+  A collection of C programming practice codes and fundamental concepts learned throughout my Computer Science & Engineering journey.
 </p>
 
 ---
@@ -55,14 +55,7 @@ The main goal of this repository is to strengthen my understanding of core progr
 ```bash id="l3xk5p"
 C-Programming/
 │
-├── C Codes/
-│   ├── Basic Problems
-│   ├── Loop Problems
-│   ├── Functions
-│   ├── Arrays
-│   ├── Strings
-│   └── Pattern Printing
-│
+├── C Codes
 ├── README.md
 └── LICENSE
 ```
@@ -88,16 +81,6 @@ This repository helped me improve my understanding of:
 * Code Structure & Syntax
 * Debugging & Error Handling
 * Writing Clean and Readable Code
-
----
-
-# Future Improvements
-
-* Add more advanced problem-solving codes
-* Organize files topic-wise more efficiently
-* Add algorithm explanations
-* Include time complexity analysis
-* Add mini console-based projects
 
 ---
 

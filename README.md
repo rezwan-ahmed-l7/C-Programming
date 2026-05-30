@@ -2,9 +2,9 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
   <img src="https://img.shields.io/badge/GCC-323330?style=for-the-badge&logo=gnu&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
   <a href="https://www.hackerrank.com/profile/rezwanahmedtorab">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
@@ -49,18 +49,6 @@ The main goal of this repository is to strengthen my understanding of core progr
 * Algorithmic Approach
 * Function Decomposition
 * Memory Basics using Pointers
-
----
-
-# Repository Structure
-
-```bash id="l3xk5p"
-C-Programming/
-│
-├── C Codes
-├── README.md
-└── LICENSE
-```
 
 ---
 

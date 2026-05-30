@@ -6,7 +6,9 @@
 
   <img src="https://img.shields.io/badge/GCC-323330?style=for-the-badge&logo=gnu&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/rezwanahmedtorab">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 
 </p>
 

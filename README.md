@@ -1,4 +1,4 @@
-# C Programming Repository
+# C Programming Fundamentals
 
 <p align="center">
 

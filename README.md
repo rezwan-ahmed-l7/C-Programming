@@ -20,9 +20,9 @@
 
 # About The Repository
 
-This repository contains C programming practice codes covering fundamental programming concepts, problem solving, and logical thinking.
+This repository contains C programming practice codes covering fundamental programming concepts, problem solving, memory management, file handling, and basic algorithms.
 
-The code is organized in a beginner-friendly learning order so that each topic can be studied progressively from basic syntax to data structures and sorting.
+The code is organized in a beginner-friendly learning order so that each topic can be studied progressively from basic syntax to pointers, structures, dynamic memory, file handling, and sorting.
 
 ---
 
@@ -42,6 +42,8 @@ The C Codes directory follows this progression:
 10. **Pointers**
 11. **Structures**
 12. **Sorting**
+13. **Dynamic Memory**
+14. **File Handling**
 
 ---
 
@@ -53,16 +55,23 @@ The C Codes directory follows this progression:
 * Increment Operators
 * Conditional Statements
 * Switch Case
-* For Loop and Break
-* Functions
+* For, While, and Do-While Loops
+* Break and Continue
+* Functions and Function Prototypes
+* Recursion
 * One-Dimensional Arrays
 * Two-Dimensional Arrays
 * Matrix Multiplication
-* Strings
+* Strings and Common String Functions
 * Character Case Conversion
 * Pointers
+* Pointers and Arrays
+* Pointers and Functions
 * Structures
 * Bubble Sort
+* Dynamic Memory Allocation
+* File Handling
+* File Reading, Writing, and Appending
 
 ---
 
@@ -76,7 +85,9 @@ The C Codes directory follows this progression:
 * Array Traversal
 * Matrix Operations
 * String Handling
-* Memory Basics using Pointers
+* Pointer Operations
+* Dynamic Memory Management
+* File Input and Output
 * Structures and User-Defined Data Types
 * Basic Sorting
 
@@ -101,8 +112,9 @@ This repository helps strengthen my understanding of:
 * C Syntax and Program Structure
 * Conditional and Iterative Logic
 * Functions, Arrays, and Strings
-* Pointers and Memory Basics
+* Pointers and Memory Management
 * Structures
+* File Handling
 * Basic Sorting Algorithms
 
 ---

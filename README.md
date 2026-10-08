@@ -20,24 +20,49 @@
 
 # About The Repository
 
-This repository contains various C programming codes that I practiced while learning programming fundamentals, problem solving, and logical thinking.
+This repository contains C programming practice codes covering fundamental programming concepts, problem solving, and logical thinking.
 
-The main goal of this repository is to strengthen my understanding of core programming concepts and improve problem-solving skills through consistent practice.
+The code is organized in a beginner-friendly learning order so that each topic can be studied progressively from basic syntax to data structures and sorting.
+
+---
+
+# Learning Roadmap
+
+The C Codes directory follows this progression:
+
+1. **Basics**
+2. **Input & Output**
+3. **Operators**
+4. **Conditional Statements**
+5. **Switch Case**
+6. **Loops**
+7. **Functions**
+8. **Arrays**
+9. **Strings**
+10. **Pointers**
+11. **Structures**
+12. **Sorting**
 
 ---
 
 # Topics Covered
 
-* Basic Input & Output
+* Variables & Assignment
+* Input & Output
+* Character and ASCII Handling
+* Increment Operators
 * Conditional Statements
-* Loops & Nested Loops
+* Switch Case
+* For Loop and Break
 * Functions
-* Arrays
+* One-Dimensional Arrays
+* Two-Dimensional Arrays
+* Matrix Multiplication
 * Strings
+* Character Case Conversion
 * Pointers
-* Pattern Printing
-* Mathematical Problems
-* Problem Solving Practice
+* Structures
+* Bubble Sort
 
 ---
 
@@ -48,7 +73,12 @@ The main goal of this repository is to strengthen my understanding of core progr
 * Logical Thinking
 * Algorithmic Approach
 * Function Decomposition
+* Array Traversal
+* Matrix Operations
+* String Handling
 * Memory Basics using Pointers
+* Structures and User-Defined Data Types
+* Basic Sorting
 
 ---
 
@@ -64,13 +94,16 @@ The main goal of this repository is to strengthen my understanding of core progr
 
 # Learning Outcomes
 
-This repository helped me improve my understanding of:
+This repository helps strengthen my understanding of:
 
 * Core Programming Fundamentals
 * Problem Solving Techniques
-* Code Structure & Syntax
-* Debugging & Error Handling
-* Writing Clean and Readable Code
+* C Syntax and Program Structure
+* Conditional and Iterative Logic
+* Functions, Arrays, and Strings
+* Pointers and Memory Basics
+* Structures
+* Basic Sorting Algorithms
 
 ---
 
@@ -84,7 +117,6 @@ B.Sc Engg in CSE Student | Aspiring Software Engineer
 
 # Support
 
-🌱 This repository is part of my learning journey as a CSE student. The codes, assignments, and reports are shared for educational purposes and may be useful for students who are learning similar concepts.
+This repository is part of my learning journey as a CSE student. The codes are shared for educational purposes and may be useful for students learning similar concepts.
 
-If you found this repository useful, consider giving it a ⭐ on GitHub, Thank you
-
+If you found this repository useful, consider giving it a ⭐ on GitHub.

@@ -1,134 +1,93 @@
 # C Programming Fundamentals
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/GCC-323330?style=for-the-badge&logo=gnu&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C language" />
+  <img src="https://img.shields.io/badge/Compiler-GCC-323330?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC compiler" />
   <a href="https://www.hackerrank.com/profile/rezwanahmedtorab">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
   </a>
-
 </p>
 
 <p align="center">
-  A collection of C programming practice codes and fundamental concepts learned throughout my Computer Science & Engineering journey.
+  Beginner-friendly C programming examples organized by topic and learning progression.
 </p>
 
----
+## Overview
 
-# About The Repository
+This repository documents my ongoing practice with the C programming language as part of my Computer Science and Engineering studies. It contains small, focused programs for learning syntax, understanding core programming concepts, and practicing problem-solving.
 
-This repository contains C programming practice codes covering fundamental programming concepts, problem solving, memory management, file handling, and basic algorithms.
+The examples are organized into topic-based folders so individual programs can be explored and compiled independently.
 
-The code is organized in a beginner-friendly learning order so that each topic can be studied progressively from basic syntax to pointers, structures, dynamic memory, file handling, and sorting.
+## Repository Structure
 
----
+| Folder | Topics |
+|---|---|
+| [01_Basics](C%20Codes/01_Basics) | Hello World, variables, assignment |
+| [02_Input_Output](C%20Codes/02_Input_Output) | Input, output, characters |
+| [03_Operators](C%20Codes/03_Operators) | Increment operators |
+| [04_Conditional_Statements](C%20Codes/04_Conditional_Statements) | Conditions and decision-making examples |
+| [05_Switch_Case](C%20Codes/05_Switch_Case) | Switch-case statements |
+| [06_Loops](C%20Codes/06_Loops) | For, while, do-while, break, continue |
+| [07_Functions](C%20Codes/07_Functions) | Functions, prototypes, recursion |
+| [08_Arrays](C%20Codes/08_Arrays) | One-dimensional and two-dimensional arrays, matrix multiplication |
+| [09_Strings](C%20Codes/09_Strings) | String handling and standard string functions |
+| [10_Pointers](C%20Codes/10_Pointers) | Pointers, arrays, functions |
+| [11_Structures](C%20Codes/11_Structures) | Structure fundamentals and examples |
+| [12_Sorting](C%20Codes/12_Sorting) | Bubble Sort |
+| [13_Dynamic_Memory](C%20Codes/13_Dynamic_Memory) | `malloc`, `calloc`, `realloc`, `free` |
+| [14_File_Handling](C%20Codes/14_File_Handling) | File creation, reading, writing, appending |
 
-# Learning Roadmap
+## Key Concepts
 
-The C Codes directory follows this progression:
+- **Control flow:** conditions, loops, `break`, and `continue`
+- **Functions:** declarations, prototypes, return values, and recursion
+- **Data handling:** arrays, strings, and structures
+- **Pointers:** pointer operations and interaction with arrays and functions
+- **Memory management:** dynamic allocation and deallocation
+- **File I/O:** opening, reading, writing, appending, and closing files
+- **Algorithms:** a basic Bubble Sort example
 
-1. **Basics**
-2. **Input & Output**
-3. **Operators**
-4. **Conditional Statements**
-5. **Switch Case**
-6. **Loops**
-7. **Functions**
-8. **Arrays**
-9. **Strings**
-10. **Pointers**
-11. **Structures**
-12. **Sorting**
-13. **Dynamic Memory**
-14. **File Handling**
+## Getting Started
 
----
+### Requirements
 
-# Topics Covered
+- A C compiler such as [GCC](https://gcc.gnu.org/)
+- A code editor or IDE (VS Code is one option)
 
-* Variables & Assignment
-* Input & Output
-* Character and ASCII Handling
-* Increment Operators
-* Conditional Statements
-* Switch Case
-* For, While, and Do-While Loops
-* Break and Continue
-* Functions and Function Prototypes
-* Recursion
-* One-Dimensional Arrays
-* Two-Dimensional Arrays
-* Matrix Multiplication
-* Strings and Common String Functions
-* Character Case Conversion
-* Pointers
-* Pointers and Arrays
-* Pointers and Functions
-* Structures
-* Bubble Sort
-* Dynamic Memory Allocation
-* File Handling
-* File Reading, Writing, and Appending
+### Compile and Run
 
----
+Open a terminal in the directory containing the source file. For example, to compile and run a file with GCC:
 
-# Concepts Practiced
+```bash
+gcc "C Codes/01_Basics/01_Hello_World.c" -o hello
+```
 
-* Structured Programming
-* Problem Solving
-* Logical Thinking
-* Algorithmic Approach
-* Function Decomposition
-* Array Traversal
-* Matrix Operations
-* String Handling
-* Pointer Operations
-* Dynamic Memory Management
-* File Input and Output
-* Structures and User-Defined Data Types
-* Basic Sorting
+Run it on Linux or macOS:
 
----
+```bash
+./hello
+```
 
-# Tools Used
+On Windows:
 
-| Technology   | Purpose                   |
-| ------------ | ------------------------- |
-| C            | Core Programming Language |
-| GCC Compiler | Code Compilation          |
-| VS Code      | Development Environment   |
+```powershell
+.\hello.exe
+```
+
+Replace the source path and output name with the program you want to run. Some examples require user input or create a local text file when executed.
+
+## Purpose
+
+This is a learning repository, not a claim of mastery or a production-ready C library. I use it to organize practice programs, reinforce foundational concepts, and track my progress as I continue learning.
+
+## Author
+
+**Rezwan Ahmed**  
+Computer Science & Engineering Student | Aspiring Software Engineer
+
+- [HackerRank](https://www.hackerrank.com/profile/rezwanahmedtorab)
+- [GitHub](https://github.com/rezwan-ahmed-l7)
 
 ---
 
-# Learning Outcomes
-
-This repository helps strengthen my understanding of:
-
-* Core Programming Fundamentals
-* Problem Solving Techniques
-* C Syntax and Program Structure
-* Conditional and Iterative Logic
-* Functions, Arrays, and Strings
-* Pointers and Memory Management
-* Structures
-* File Handling
-* Basic Sorting Algorithms
-
----
-
-# Author
-
-### Rezwan Ahmed
-
-B.Sc Engg in CSE Student | Aspiring Software Engineer
-
----
-
-# Support
-
-This repository is part of my learning journey as a CSE student. The codes are shared for educational purposes and may be useful for students learning similar concepts.
-
-If you found this repository useful, consider giving it a ⭐ on GitHub.
+*Feedback and suggestions for improving the examples and organization are welcome.*

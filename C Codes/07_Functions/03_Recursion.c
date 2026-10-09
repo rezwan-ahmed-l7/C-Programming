@@ -12,13 +12,22 @@ int main()
 {
     int n;
 
-    printf("Enter a positive integer: ");
-    scanf("%d", &n);
+    printf("Enter an integer from 0 to 12: ");
 
-    if (n < 0)
-        printf("Factorial is not defined for negative numbers.\n");
-    else
-        printf("Factorial = %d\n", factorial(n));
+    if (scanf("%d", &n) != 1)
+    {
+        printf("Invalid input.\n");
+        return 1;
+    }
+
+    // 12! fits in a typical 32-bit signed int; 13! does not.
+    if (n < 0 || n > 12)
+    {
+        printf("Please enter a number between 0 and 12.\n");
+        return 1;
+    }
+
+    printf("Factorial = %d\n", factorial(n));
 
     return 0;
 }

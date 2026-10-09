@@ -2,24 +2,34 @@
 
 int main()
 {
-    int i, n, count = 0;
-    printf("Enter number: ");
-    scanf("%d", &n);
+    int n, i, isPrime = 1;
 
-    for (i = 2; i <= n; i++)
+    printf("Enter a number: ");
+
+    if (scanf("%d", &n) != 1)
     {
-        if (n % i == 0)
+        printf("Invalid input.\n");
+        return 1;
+    }
+
+    if (n < 2)
+        isPrime = 0;
+    else
+    {
+        for (i = 2; i <= n / i; i++)
         {
-            count++;
-            break;
+            if (n % i == 0)
+            {
+                isPrime = 0;
+                break;
+            }
         }
     }
 
-    if (count == 0)
-        printf("Prime");
-
+    if (isPrime)
+        printf("Prime\n");
     else
-        printf("Not prime");
+        printf("Not prime\n");
 
     return 0;
 }
